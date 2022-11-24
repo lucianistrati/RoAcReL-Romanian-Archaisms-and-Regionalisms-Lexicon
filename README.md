@@ -6,7 +6,7 @@ Lexicon sources:
   - [x] my grandparents for the words originated from Botoșani County
   - [x] https://www.colegiu.info/arhaismele-regionalismele-formele-populare - for words from various regions of the country
   - [x] https://sites.google.com/site/enciclopediacomuneiserbanesti/regionalisme-si-arhaisme - for words from Olt County
-  - [ ]https://ro.wiktionary.org/wiki/Wik%C8%9Bionar:List%C4%83_de_arhaisme_rom%C3%A2ne%C8%99ti - far various words of unknown origin
+  - [ ] https://ro.wiktionary.org/wiki/Wik%C8%9Bionar:List%C4%83_de_arhaisme_rom%C3%A2ne%C8%99ti - far various words of unknown origin
   - [ ] https://ro.wikisource.org/wiki/Dic%C8%9Bionar_de_regionalisme_%C8%99i_arhaisme_din_Maramure%C8%99 - for words from Maramureș County
   - [x] https://www.facebook.com/112019417255276/posts/180955287028355/
   - [x] https://adevarul.ro/stiri-locale/baia-mare/capcanele-limbii-romane-regionalismele-din-ardeal-1909130.html

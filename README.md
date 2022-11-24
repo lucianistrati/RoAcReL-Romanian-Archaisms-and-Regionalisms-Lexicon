@@ -14,6 +14,6 @@ Lexicon sources:
   - [ ] https://www.shtiu.ro/ce-sunt-regionalismele-exemple-de-regionalisme-121957.html
   - [ ] https://voxvalachorum.ro/ce-sunt-regionalismele-vocabularul-limbii-romane/
   - [ ] https://lexicologialimbiiromane.ro/vocabularul/organizarea-vocabularului/masa-vocabularului/regionalisme/
-  - [ ] https://www.vice.com/ro/article/xw8z7z/cuvinte-din-limba-romana-de-care-habar-nu-aveai
+  - [x] https://www.vice.com/ro/article/xw8z7z/cuvinte-din-limba-romana-de-care-habar-nu-aveai
   
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)

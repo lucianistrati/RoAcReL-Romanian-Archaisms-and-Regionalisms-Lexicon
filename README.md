@@ -8,12 +8,12 @@ Lexicon sources:
   - [x] https://sites.google.com/site/enciclopediacomuneiserbanesti/regionalisme-si-arhaisme - for words from Olt County
   - [ ]https://ro.wiktionary.org/wiki/Wik%C8%9Bionar:List%C4%83_de_arhaisme_rom%C3%A2ne%C8%99ti - far various words of unknown origin
   - [ ] https://ro.wikisource.org/wiki/Dic%C8%9Bionar_de_regionalisme_%C8%99i_arhaisme_din_Maramure%C8%99 - for words from Maramureș County
-  - [ ] https://www.facebook.com/112019417255276/posts/180955287028355/
-  - [ ] https://adevarul.ro/stiri-locale/baia-mare/capcanele-limbii-romane-regionalismele-din-ardeal-1909130.html
-  - [ ] https://www.dictie.ro/top-zece-regionalisme-din-moldova/
-  - [ ] https://www.shtiu.ro/ce-sunt-regionalismele-exemple-de-regionalisme-121957.html
-  - [ ] https://voxvalachorum.ro/ce-sunt-regionalismele-vocabularul-limbii-romane/
-  - [ ] https://lexicologialimbiiromane.ro/vocabularul/organizarea-vocabularului/masa-vocabularului/regionalisme/
+  - [x] https://www.facebook.com/112019417255276/posts/180955287028355/
+  - [x] https://adevarul.ro/stiri-locale/baia-mare/capcanele-limbii-romane-regionalismele-din-ardeal-1909130.html
+  - [x] https://www.dictie.ro/top-zece-regionalisme-din-moldova/
+  - [x] https://www.shtiu.ro/ce-sunt-regionalismele-exemple-de-regionalisme-121957.html
+  - [x] https://voxvalachorum.ro/ce-sunt-regionalismele-vocabularul-limbii-romane/
+  - [x] https://lexicologialimbiiromane.ro/vocabularul/organizarea-vocabularului/masa-vocabularului/regionalisme/
   - [x] https://www.vice.com/ro/article/xw8z7z/cuvinte-din-limba-romana-de-care-habar-nu-aveai
   
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)

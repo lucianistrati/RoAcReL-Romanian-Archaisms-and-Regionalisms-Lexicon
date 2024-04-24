@@ -1,4 +1,4 @@
-# RoAcReL - Romanian Archaisms and Regionalisms Lexicon
+# RoAcReL (Romanian Archaisms and Regionalisms Lexicon)
 
 This repository contains a lexicon of words and expressions that are archaical, regionalisms or popular forms of some other Romanian day-to-day words. As of November 2022 it seems there is no other central and exetensive resource for this on Github. This repository of old Romanian words should prove useful for people who want to research how the meanings of certain words evolved in the Romanian language as well as how in one region or, county or even in one village the words tend to have particular suffixes or common traits.
 

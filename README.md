@@ -16,4 +16,3 @@ Lexicon sources:
   - [x] https://lexicologialimbiiromane.ro/vocabularul/organizarea-vocabularului/masa-vocabularului/regionalisme/
   - [x] https://www.vice.com/ro/article/xw8z7z/cuvinte-din-limba-romana-de-care-habar-nu-aveai
   
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
